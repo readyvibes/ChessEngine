@@ -1,4 +1,4 @@
-#include "Board.h"
+#include "ChessBoard.h"
 
 ChessBoard::ChessBoard() {
     initializeStartingPosition();
